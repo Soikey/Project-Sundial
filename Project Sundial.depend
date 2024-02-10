@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650595724 source:e:\cpp\project sundial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1650600095 e:\cpp\project sundial\func.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<setjmp.h>
+	<string.h>
+
